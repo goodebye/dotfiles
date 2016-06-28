@@ -1,0 +1,14 @@
+q
+add ~/music/
+filter 2004
+filter year 2004
+filter year:2004
+add ~/music
+add ~music
+colorscheme monokai
+colorscheme default
+colorscheme zenburn
+colorscheme green-mono-88
+colorscheme gray-88
+colorscheme cyan
+colorscheme xterm-white

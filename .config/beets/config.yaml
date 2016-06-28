@@ -1,0 +1,4 @@
+directory: ~/music
+library: ~/Music/library.blb
+import:
+    copy: yes
